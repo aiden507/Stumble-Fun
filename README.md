@@ -31,4 +31,4 @@ Stumble-Fun **requires MelonLoader** to run.
 
 That's it, I hope you enjoy my project!
 
-![Stumble-Fun Logo](images/logo.png)
+![Stumble-Fun Logo]([images/logo.png](https://raw.githubusercontent.com/aiden507/Stumble-Fun/refs/heads/main/chopped%20sf%20logo.png))
