@@ -30,3 +30,5 @@ Stumble-Fun **requires MelonLoader** to run.
 6. And Have Fun!
 
 That's it, I hope you enjoy my project!
+
+![Stumble-Fun Logo](images/logo.png)
