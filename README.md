@@ -1,29 +1,32 @@
-# Stumble-Fun: Open-Source Customization Framework
+# Stumble-Fun — Open-Source Stumble Guys Project
 
-Stumble-Fun is a lightweight, fully open-source modification framework designed for *Stumble Guys*. By utilizing client-side asset hooks, this tool provides local access to the complete catalog of in-game cosmetics—including all skins, footstep trails, emotes, and animations—without altering your permanent account data on official servers.
+**Stumble-Fun** is a lightweight, fully open-source customization framework for *Stumble Guys*. It uses client-side asset hooks to let you access and preview the game's cosmetics locally, without making permanent changes to your official account data.
 
----
+### What can you do with it?
 
-### Key Features
+* **Access the full cosmetic catalog:** Check out skins, footsteps and more directly in your local game client.
+* **Fully open-source:** The project is publicly available on GitHub, so you can look through the code, build it yourself, or contribute to the project.
+* **Easy to set up:** Stumble-Fun is designed to work through **MelonLoader**, making installation and management straightforward.
 
-* **Complete Cosmetic Access:** Unlock and preview every skin, footstep effect, and animation instantly within your local game client.
-* **Fully Open-Source:** Transparent, community-driven codebase available publicly on GitHub for audit, compilation, and security verification.
-* **Modular Deployment:** Flexible installation options tailored for both casual users and developers.
+### Installation
 
----
+Stumble-Fun **requires MelonLoader** to run.
 
-### Available Installation Methods
+**Do not use a DLL injector or any other injector.** The mod is intended to be loaded through MelonLoader instead.
 
-| Method | Target Audience | Description |
-| :--- | :--- | :--- |
-| **Standalone .dll** | Advanced Users | Direct dynamic-link library binary designed for manual injection into the game process via your preferred injector. |
-| **Stumble Installer** | General Users | An automated, single-click executable (`.exe`) that detects your installation directory and applies necessary files automatically. |
-| **Source Code** | Developers | Access raw project files to build from source using C# and Visual Studio, allowing custom tweaks and contributions. |
+| Method              | Best For   | Description                                                                                                      |
+| :------------------ | :--------- | :--------------------------------------------------------------------------------------------------------------- |
+| **Our Installer**   | Casuals    | Install our installer from our releases page then run it and that's it.                                          |
+| **MelonLoader Mod** | Most Users | Install MelonLoader for your game and place the Stumble-Fun mod file in the mods folder.                         |
+| **Source Code**     | Developers | Grab the source code and build the project yourself using C# and Visual Studio.                                  |
 
----
+### Getting Started
 
-### How to Download
+1. Go to the **Releases** section of the official project repository.
+2. Download the latest **Installer**.
+3. Run the **Installer**.
+4. Select your **Game Path**.
+5. Press Install.
+6. And Have Fun!
 
-1. Head over to the **Releases** tab on the official project repository.
-2. Select the installation package that best suits your setup.
-3. Follow the quick-start deployment guide included in the release documentation.
+That's it, I hope you enjoy my project!
