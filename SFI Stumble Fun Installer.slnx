@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="SFI Stumble Fun Installer/SFI Stumble Fun Installer.vcxproj" Id="54c11ee0-a9bc-40fa-aa12-2adddab26a70" />
-</Solution>
